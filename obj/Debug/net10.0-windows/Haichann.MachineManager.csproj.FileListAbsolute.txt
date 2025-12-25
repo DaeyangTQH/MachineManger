@@ -1,3 +1,8 @@
+E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager.csproj.AssemblyReference.cache
+E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\App.g.cs
+E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager_MarkupCompile.cache
+E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager_MarkupCompile.lref
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\Haichann.MachineManager.exe
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\Haichann.MachineManager.deps.json
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\Haichann.MachineManager.runtimeconfig.json
@@ -138,11 +143,6 @@ E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\runtimes\w
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\Code_Learning\C#\Haichann.MachineManager\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager.csproj.AssemblyReference.cache
-E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\MainWindow.g.cs
-E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\App.g.cs
-E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager_MarkupCompile.cache
-E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager_MarkupCompile.lref
 E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\MainWindow.baml
 E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager.g.resources
 E:\Code_Learning\C#\Haichann.MachineManager\obj\Debug\net10.0-windows\Haichann.MachineManager.GeneratedMSBuildEditorConfig.editorconfig

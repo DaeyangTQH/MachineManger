@@ -11,10 +11,10 @@ namespace Haichann.MachineManager.Service
     {
         private readonly AppDbContext _context = new AppDbContext();
         
-        public User Authentication(string username, string password)
-        {
-            var hash = Hash(password);
+        //public User Authentication(string username, string password)
+        //{
+        //    var hash = Hash(password);
 
-        }
+        //}
     }
 }
