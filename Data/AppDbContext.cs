@@ -20,7 +20,7 @@ namespace Haichann.MachineManager.Data
             optionsBuilder.UseSqlServer(
                 "Server=TRANHAI\\HAI_TRAN;" +
                 "Database=MachineManagerDb;" +
-                "User Id=sa;" + Environment.NewLine +
+                "User Id=sa;" +
                 "Password=123;" +
                 "TrustServerCertificate=True;"
             );
